@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbcU/hnFxc0sdjqoBO3S698BziK3oOSGcnPC4iNg88YzoiTXUUX35xRkmJohA24wf/47SXIPoELp0zm0kp07XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ritvik Prakash\\Desktop\\c#stuff\\blazor-portfolio-website\\BlazorTrial1\\BlazorTrial1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritvik Prakash\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
