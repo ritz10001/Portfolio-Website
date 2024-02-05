@@ -1,0 +1,7 @@
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\BlazorTrial1.exe
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\appsettings.Development.json
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\appsettings.json
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\BlazorTrial1.dll
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\BlazorTrial1.deps.json
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\BlazorTrial1.runtimeconfig.json
+C:\Users\Ritvik Prakash\Desktop\c#stuff\Portfolio-Website\BlazorTrial1\publish\BlazorTrial1.pdb
